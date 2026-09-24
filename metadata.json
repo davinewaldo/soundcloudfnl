@@ -1,0 +1,6 @@
+{
+  "name": "SoundCloud Mobile Dark",
+  "description": "A photorealistic dark-themed SoundCloud music streaming mobile application featuring waveform playback, curated tracks, and interactive player controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
